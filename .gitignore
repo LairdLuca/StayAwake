@@ -1,0 +1,4 @@
+# Output di test e file temporanei
+*.log
+*.tmp
+sa-*.txt
